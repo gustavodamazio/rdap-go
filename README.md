@@ -27,7 +27,7 @@
 
 ```bash
 git clone https://github.com/gustavodamazio/rdap-go.git
-cd rdap-ip-lookup
+cd rdap-go
 go build -o rdaplookup main.go
 ```
 
